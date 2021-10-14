@@ -1,1 +1,3 @@
 coddigo na dev
+task i da story1
+task 2 da story1

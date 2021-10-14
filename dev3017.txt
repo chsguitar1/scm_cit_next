@@ -1,0 +1,4 @@
+coddigo na dev
+task i da story1
+task1 da story3
+task 2 da story1
